@@ -2,86 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vukkarithvik.tech/blog/blog/</loc>
+    <lastmod>2022-01-10T17:33:19+05:30</lastmod>
+  </url><url>
+    <loc>https://vukkarithvik.tech/blog/blog/stdinswift/</loc>
+    <lastmod>2022-01-10T17:33:19+05:30</lastmod>
+  </url><url>
     <loc>https://vukkarithvik.tech/blog/</loc>
     <lastmod>2022-01-10T17:33:19+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/blog/stdinswift/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/swift/</loc>
     <lastmod>2022-01-10T17:33:19+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/</loc>
     <lastmod>2022-01-10T17:33:19+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/swift/</loc>
-    <lastmod>2022-01-10T17:33:19+05:30</lastmod>
-  </url><url>
-    <loc>https://vukkarithvik.tech/tags/</loc>
-    <lastmod>2022-01-10T17:33:19+05:30</lastmod>
-  </url><url>
-    <loc>https://vukkarithvik.tech/tags/flask/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/flask/</loc>
     <lastmod>2021-12-12T16:13:30+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/blog/urlshortener/</loc>
+    <loc>https://vukkarithvik.tech/blog/blog/urlshortener/</loc>
     <lastmod>2021-12-12T16:13:30+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/sqlite/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/sqlite/</loc>
     <lastmod>2021-12-12T16:13:30+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/url-shortener/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/url-shortener/</loc>
     <lastmod>2021-12-12T16:13:30+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/embedded-systems/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/embedded-systems/</loc>
     <lastmod>2021-11-24T14:03:57+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/gps/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/gps/</loc>
     <lastmod>2021-11-24T14:03:57+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/blog/esproject/</loc>
+    <loc>https://vukkarithvik.tech/blog/blog/esproject/</loc>
     <lastmod>2021-11-24T14:03:57+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/lpc2148/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/lpc2148/</loc>
     <lastmod>2021-11-24T14:03:57+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/fds/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/fds/</loc>
     <lastmod>2021-11-24T11:01:40+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/machine-learning/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/machine-learning/</loc>
     <lastmod>2021-11-24T11:01:40+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/blog/fdsproject/</loc>
+    <loc>https://vukkarithvik.tech/blog/blog/fdsproject/</loc>
     <lastmod>2021-11-24T11:01:40+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/cricket/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/cricket/</loc>
     <lastmod>2021-11-21T17:38:11+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/blog/mlproject/</loc>
+    <loc>https://vukkarithvik.tech/blog/blog/mlproject/</loc>
     <lastmod>2021-11-21T17:38:11+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/blog/dipproject/</loc>
+    <loc>https://vukkarithvik.tech/blog/blog/dipproject/</loc>
     <lastmod>2021-11-21T11:38:11+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/cnn/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/cnn/</loc>
     <lastmod>2021-11-21T11:38:11+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/deep-learning/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/deep-learning/</loc>
     <lastmod>2021-11-21T11:38:11+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/image-processing/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/image-processing/</loc>
     <lastmod>2021-11-21T11:38:11+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/opencv/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/opencv/</loc>
     <lastmod>2021-11-21T11:38:11+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/memoryforensics/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/memoryforensics/</loc>
     <lastmod>2021-04-12T10:19:10+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/blog/trustissues/</loc>
+    <loc>https://vukkarithvik.tech/blog/blog/trustissues/</loc>
     <lastmod>2021-04-12T10:19:10+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/tags/volatility/</loc>
+    <loc>https://vukkarithvik.tech/blog/tags/volatility/</loc>
     <lastmod>2021-04-12T10:19:10+05:30</lastmod>
   </url><url>
-    <loc>https://vukkarithvik.tech/categories/</loc>
+    <loc>https://vukkarithvik.tech/blog/categories/</loc>
   </url><url>
-    <loc>https://vukkarithvik.tech/contact/</loc>
+    <loc>https://vukkarithvik.tech/blog/contact/</loc>
   </url>
 </urlset>
